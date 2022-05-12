@@ -817,7 +817,8 @@ header ul li a:hover , a:focus{
 }
 
 .skills .box-skills{
-    padding: 10.5px 63px;
+    border-radius: 4%;
+    padding: 11px 63px;
     background: #222;
     color: #fff;
     max-width: 350px;
